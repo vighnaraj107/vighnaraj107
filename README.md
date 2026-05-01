@@ -5,21 +5,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Projects;Exploring+AI+%26+Machine+Learning;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vighnaraj107&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAB&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Projects;Exploring+AI+%26+Machine+Learning;Consistency+is+the+key" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Working on **Full Stack + AI Projects**
-- 🌱 Learning **MERN Stack & Machine Learning**
-- 💡 Interested in **AI-powered web applications**
-- ⚡ Goal: Build impactful real-world projects
+- 🔭 Working on **Full Stack & Machine Learning Projects**
+- 💡 Interested in **AI-powered applications**
+- ⚡ Focused on building real-world, practical solutions
 
 ---
 
@@ -34,37 +29,37 @@
 ## 🚀 Featured Projects
 
 ### 🔹 Cloud Upload Full Stack Project
-<p>
-Full-stack app with cloud storage integration using AWS S3, deployed with Vercel and Render.
-</p>
+
+A full-stack web application designed with a scalable architecture, featuring separate frontend and backend systems.  
+The project integrates **AWS S3 for cloud storage**, enabling efficient file upload and retrieval.
+
+**Highlights:**
+- Deployed frontend (Vercel) and backend (Render)  
+- RESTful API design for handling file operations  
+- Cloud storage integration with secure handling  
+- Structured and modular codebase  
 
 ---
 
-### 🔹 House Price Prediction ML
-<p>
-Machine learning app using Random Forest with Streamlit interface for real-time predictions.
-</p>
+### 🔹 Spam Classifier (ML + NLP)
+
+A machine learning-based application that classifies messages as spam or not using natural language processing techniques.  
+Built with a focus on real-time predictions and usability.
+
+**Highlights:**
+- Text preprocessing using NLP techniques  
+- Model training with Scikit-learn  
+- Streamlit interface for live predictions  
+- Performance visualization for model evaluation  
 
 ---
 
-### 🔹 Password Generator
-<p>
-Secure password generator with customizable options and strength indicator.
-</p>
+## 🌱 Currently Learning
 
----
-
-### 🔹 Salary Prediction ML Project
-<p>
-Linear regression model with interactive UI and data visualization.
-</p>
-
----
-
-### 🔹 Spam Classifier
-<p>
-NLP-based spam detection model with real-time predictions using Streamlit.
-</p>
+- MERN Stack (MongoDB, Express, React, Node.js)  
+- Backend Development with APIs  
+- Advanced Machine Learning concepts  
+- System Design basics  
 
 ---
 
@@ -74,8 +69,6 @@ NLP-based spam detection model with real-time predictions using Streamlit.
   <img src="https://github-readme-stats.vercel.app/api?username=vighnaraj107&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vighnaraj107&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnaraj107&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -88,17 +81,4 @@ NLP-based spam detection model with real-time predictions using Streamlit.
 
 ---
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/vighnaraj107">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
-⭐ *Consistency > Perfection. Keep building.*
+⭐ *Keep building. Stay consistent.*
