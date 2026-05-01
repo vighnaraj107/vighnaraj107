@@ -14,8 +14,50 @@
 
 ## 🛠️ Tech Stack
 
+### 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mongodb,express,react,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
+</p>
+
+---
+
+### ☁️ Cloud & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,vercel" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+</p>
+
+---
+
+### 🤖 Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+---
+
+### 📊 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
