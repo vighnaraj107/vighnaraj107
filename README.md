@@ -3,7 +3,6 @@
 <p align="center">
   🤖 AIML Enthusiast | 🌐 MERN Stack Learner | 🎓 B.Tech Student
 </p>
----
 
 ## 🚀 About Me
 
