@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vighnaraj Kakade</h1>
+<h1 align="center">Hi 👋, I'm Vighnarajendra Kakade</h1>
 
 <p align="center">
   🤖 AIML Enthusiast | 🌐 MERN Stack Learner | 🎓 B.Tech Student
