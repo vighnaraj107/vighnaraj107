@@ -3,11 +3,6 @@
 <p align="center">
   🤖 AIML Enthusiast | 🌐 MERN Stack Learner | 🎓 B.Tech Student
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAB&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Projects;Exploring+AI+%26+Machine+Learning;Consistency+is+the+key" />
-</p>
-
 ---
 
 ## 🚀 About Me
