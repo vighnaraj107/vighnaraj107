@@ -1,21 +1,25 @@
 <h1 align="center">Hi 👋, I'm Vighnaraj Kakade</h1>
 
 <p align="center">
-  🤖 AIML Enthusiast | 🌐 MERN Stack Learner | 🎓 B.Tech Student  
+  🤖 AIML Enthusiast | 🌐 MERN Stack Learner | 🎓 B.Tech Student
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F75C7E&center=true&vCenter=true&width=500&lines=Building+Web+Projects;Learning+MERN+Stack;Exploring+AI+%26+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Projects;Exploring+AI+%26+Machine+Learning;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vighnaraj107&label=Profile+Views&color=blue&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Full Stack & AI Projects**  
-- 🌱 Learning **MERN Stack & Advanced Machine Learning**  
-- 💡 Interested in **AI-driven applications**  
-- ⚡ Building projects to improve real-world skills  
+- 🔭 Working on **Full Stack + AI Projects**
+- 🌱 Learning **MERN Stack & Machine Learning**
+- 💡 Interested in **AI-powered web applications**
+- ⚡ Goal: Build impactful real-world projects
 
 ---
 
@@ -29,38 +33,38 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [Cloud Upload Full Stack Project](https://github.com/vighnaraj107)
-- Full-stack app with frontend (Vercel) & backend (Render)  
-- AWS S3 cloud storage integration  
-- REST API for file handling  
+### 🔹 Cloud Upload Full Stack Project
+<p>
+Full-stack app with cloud storage integration using AWS S3, deployed with Vercel and Render.
+</p>
 
 ---
 
-### 🔹 [House Price Prediction ML](https://github.com/vighnaraj107)
-- Random Forest model  
-- Streamlit web app  
-- Real-time prediction + visualization  
+### 🔹 House Price Prediction ML
+<p>
+Machine learning app using Random Forest with Streamlit interface for real-time predictions.
+</p>
 
 ---
 
-### 🔹 [Password Generator](https://github.com/vighnaraj107)
-- Custom password creation  
-- Strength indicator  
-- Copy to clipboard  
+### 🔹 Password Generator
+<p>
+Secure password generator with customizable options and strength indicator.
+</p>
 
 ---
 
-### 🔹 [Salary Prediction ML Project](https://github.com/vighnaraj107)
-- Linear Regression model  
-- Interactive UI  
-- Data visualization  
+### 🔹 Salary Prediction ML Project
+<p>
+Linear regression model with interactive UI and data visualization.
+</p>
 
 ---
 
-### 🔹 [Spam Classifier](https://github.com/vighnaraj107)
-- NLP-based model  
-- Real-time prediction  
-- Streamlit dashboard  
+### 🔹 Spam Classifier
+<p>
+NLP-based spam detection model with real-time predictions using Streamlit.
+</p>
 
 ---
 
@@ -70,6 +74,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vighnaraj107&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vighnaraj107&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnaraj107&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vighnaraj107/vighnaraj107/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -87,4 +101,4 @@
 
 ---
 
-⭐ *Always learning, always building.*
+⭐ *Consistency > Perfection. Keep building.*
