@@ -15,8 +15,11 @@
 ## 🛠️ Tech Stack
 
 **Web:** HTML, CSS, JavaScript, React, Node.js 
+
 **Database:** PostgreSQL 
+
 **Cloud & Deployment:** AWS, Vercel, Render  
+
 **ML & Data:** Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
 **Platform and tools:** Google Colab, Jupyter Notebook, Docker, Git <Github, VS code
 
