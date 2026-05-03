@@ -21,7 +21,7 @@
 **Cloud & Deployment:** AWS, Vercel, Render  
 
 **ML & Data:** Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
-**Platform and tools:** Google Colab, Jupyter Notebook, Docker, Git <Github, VS code
+**Platform and tools:** Google Colab, Jupyter Notebook, Docker, Git, Github, VS code
 
 ---
 
